@@ -4,7 +4,7 @@
 
 Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript). Forked from [Allar's Gamemakin Style Guide](https://github.com/Allar/ue4-style-guide)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-63900039-3/repo?useReferrer)](#) ![#](https://img.shields.io/badge/lint-partial_support-yellow.svg)
+[![Analytics](https://ga-beacon.appspot.com/UA-63900039-3/repo?useReferrer)](#)
 
 ## Discuss This Style Guide
 
