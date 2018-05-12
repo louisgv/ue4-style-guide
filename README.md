@@ -1,9 +1,9 @@
-# [Gamemakin](https://gamemak.in) UE4 Style Guide() {
+# [The Janus Project](https://janus-game.com/) UE4 Style Guide() {
 
 *A mostly reasonable approach to Unreal Engine 4*
 
-Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
-
+Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript). Forked from [Allar's Gamemakin Style Guide](https://github.com/Allar/ue4-style-guide)
+ 
 [![Analytics](https://ga-beacon.appspot.com/UA-80567399-1/repo?useReferrer)](#) ![#](https://img.shields.io/badge/lint-partial_support-yellow.svg)
 
 ## Unreal Engine 4 Linter Plugin
@@ -12,7 +12,7 @@ An automated method of checking your project against this style guide is availab
 
 ## Discuss This Style Guide
 
-Gamemakin LLC has a public Discord channel at http://discord.gamemak.in with a #linter channel if you'd like to discuss all things style guide and Linter plugin.
+The Janus Project has a [public Discord channel with a #dev-qa channel](https://discordapp.com/invite/tmmj2TE) if you'd like to discuss all things style guide and Linter plugin.
 
 ## Linking To This Document
 
@@ -197,7 +197,7 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 
 > 1.2.9 [Physics](#anc-physics)
 
-> 1.2.10 [Sound](#anc-sound)
+> 1.2.10 [Sound](#anc-sounds)
 
 > 1.2.11 [User Interface](#anc-ui)
 
