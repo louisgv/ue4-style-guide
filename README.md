@@ -268,8 +268,8 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 | Structure               | S          |            | No underscore.                   |
 | Tutorial Blueprint      | TBP_       |            |                                  |
 | Widget Blueprint        | WBP_       |            |                                  |
-| GameMode Blueprint      | BPGM_      |            | Body should be: <ProjectName>_<Menu | Main | etc...> |
-| HUD Blueprint      	  | BPHUD_     |            | Body should be: <ProjectName>_<Menu | Main | etc...> |
+| GameMode Blueprint      | GM_      |            | Body should be: <ProjectName>_<Menu | Main | etc...> |
+| HUD Blueprint      	  | HUD_     |            | Body should be: <ProjectName>_<Menu | Main | etc...> |
 
 
 **[ - Back to Sections - ](#sections)**
