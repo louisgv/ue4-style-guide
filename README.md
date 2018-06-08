@@ -390,7 +390,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Sound Attenuation       | ATT_       |            |                                  |
 | Sound Class             |            |            | No prefix/suffix. Should be put in a folder called SoundClasses |
 | Sound Concurrency       |            | _SCon      | Should be named after a SoundClass |
-| Sound Cue               | SC_        |           |                                  |
+| Sound Cue               | SW_        | _Cue      | Adhere to UE4's naming convention when creating a cue from a wave  |
 | Sound Mix               | SM_        |           |                                  |
 | Sound Wave              | SW_        |           |                                  |
 
