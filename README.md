@@ -421,6 +421,14 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Particle System         | PS_        |            |                                  |
 | Material (Post Process) | PP_        |            |                                  |
+| Niagara System          | NS_        |            |                                  |
+| Niagara Emitter	  | NE_        |            |                                  |
+| Niagara Module Script   | NMS_       |            |                                  |
+| Niagara Function Script | NFS_       |            |                                  |
+| Niagara Dynamic Input Script | NDIS_       |            |                                  |
+| Niagara Parameter Collection | NPC_       |            |                                  |
+| Niagara Parameter Collection Instance | NPCI_       |            |                                  |
+| Niagara Parameter Collection Instance | NPCI_       |            |                                  |
 
 **[ - Back to Sections - ](#sections)**
 
