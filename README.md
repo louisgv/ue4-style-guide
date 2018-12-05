@@ -378,7 +378,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Physical Material       | PM_        |            |                                  |
 | Physical Asset	  | PHYS_      |            |                                  |
-| Destructible Mesh       | DM_        |            |                                  |
+| Destructible Mesh       |            | _DM         |                                  |
 
 **[ - Back to Sections - ](#sections)**
 
